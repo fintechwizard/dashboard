@@ -1,6 +1,6 @@
 <p align="center">
-<h1 align="center"><b>Custom Company Dashboard</b></h1>
-   <h2 align="center">:briefcase: Bio :briefcase:</h2>
+<h1 align="center"><b>Custom Dashboard</b></h1>
+   <h2 align="center">by eVOLV</h2>
 </p>
 
 <p align="center">
