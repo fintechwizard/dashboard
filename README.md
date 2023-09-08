@@ -3,10 +3,6 @@
    <h2 align="center">by eVOLV</h2>
 </p>
 
-<p align="center">
-<img src="https://github.com/fintechwizard/dashboard/assets/107593481/a6f6748f-4d06-401a-ae03-56f165d91996">
-</p>
-
 <b>Welcome to our Custom Company Dashboard demo!</b> This full-fledged React dashboard is designed to cater to your company's specific needs. It offers a comprehensive suite of features, including a calendar, contacts management, interactive charts, financial tools, options for both light and dark themes, and much more. The dashboard can be built to your specifications along with a range of custom colors and settings.
 
 ## Features
@@ -29,6 +25,11 @@ Here's a glimpse of what our custom React dashboard has to offer:
 
 <b>Here are some screenshots of our dashboard:</b>
 
+<b>- Dashboard Homepage</b>
+<p align="center">
+<img src="https://github.com/fintechwizard/dashboard/assets/107593481/a6f6748f-4d06-401a-ae03-56f165d91996">
+</p>
+
 <b>- Calendar</b>
   ![Calendar](calendar-screenshot.png)
 
@@ -41,7 +42,6 @@ Here's a glimpse of what our custom React dashboard has to offer:
 <b>- Area Chart</b>
   ![Area Chart](area-chart-screenshot.png)
 
-<b>- Dashboard Homepage</b>
-  ![Dashboard Homepage](dashboard-homepage-screenshot.png)
+
 
 
