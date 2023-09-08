@@ -1,5 +1,5 @@
 <p align="center">
-# Custom Company Dashboard
+<b>Custom Company Dashboard</b>
 </p>
 
 <p align="center">
