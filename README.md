@@ -1,5 +1,6 @@
 <p align="center">
 <h1 align="center"><b>Custom Company Dashboard</b></h1>
+   <h2 align="center">:briefcase: Bio :briefcase:</h2>
 </p>
 
 <p align="center">
