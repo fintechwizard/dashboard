@@ -52,7 +52,7 @@ Here's a glimpse of what our custom React dashboard has to offer:
 
 <h3>Customization Tailored to Your Needs</h3>
 
-At <b>eVOLV<b/>, we understand that every company is unique. That's why our Custom Company Dashboard is designed to be highly adaptable. Whether you need specific features, branding, or integrations, we're here to customize it to your requirements. Let us build the perfect dashboard that suits your business like a tailored suit.
+At <b>eVOLV</b>, we understand that every company is unique. That's why our Custom Company Dashboard is designed to be highly adaptable. Whether you need specific features, branding, or integrations, we're here to customize it to your requirements. Let us build the perfect dashboard that suits your business like a tailored suit.
    
 <h3>Get in Touch</h3>
 
