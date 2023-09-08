@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"><b>Custom Dashboard</b></h1>
+<h1 align="center"><b>Company Dashboard</b></h1>
    <h2 align="center">by eVOLV</h2>
 </p>
 
@@ -7,7 +7,7 @@
 <img src="https://github.com/fintechwizard/dashboard/assets/107593481/a6f6748f-4d06-401a-ae03-56f165d91996">
 </p>
 
-Welcome to the Custom Company Dashboard repository! This full-fledged React dashboard is designed to cater to your company's specific needs. It offers a comprehensive suite of features, including a calendar, contacts management, interactive charts, financial tools, and much more. The dashboard is highly customizable, with options for both light and dark themes, along with a range of custom colors and settings.
+<b>Welcome to our Custom Company Dashboard demo!</b> This full-fledged React dashboard is designed to cater to your company's specific needs. It offers a comprehensive suite of features, including a calendar, contacts management, interactive charts, financial tools, options for both light and dark themes, and much more. The dashboard can be built to your specifications along with a range of custom colors and settings.
 
 ## Features
 
@@ -21,25 +21,27 @@ Here's a glimpse of what our custom React dashboard has to offer:
 
 - **Finance**: Access financial tools and charts to monitor your company's financial health and performance.
 
+- **Connectivity**: Connect the dashboard to whatever data feed suits your requirements such as financial data, news and your own databases.
+
 - **Customization**: Tailor the dashboard to your preferences with a built-in light and dark theme, custom color schemes, and a range of customizable options.
 
 ## Screenshots
 
-Here are some screenshots of our dashboard:
+<b>Here are some screenshots of our dashboard:</b>
 
-- Calendar
+<b>- Calendar</b>
   ![Calendar](calendar-screenshot.png)
 
-- Financial Chart
+<b>- Financial Chart</b>
   ![Financial Chart](financial-chart-screenshot.png)
 
-- Theme Settings
+<b>- Theme Settings</b>
   ![Theme Settings](theme-settings-screenshot.png)
 
-- Area Chart
+<b>- Area Chart</b>
   ![Area Chart](area-chart-screenshot.png)
 
-- Dashboard Homepage
+<b>- Dashboard Homepage</b>
   ![Dashboard Homepage](dashboard-homepage-screenshot.png)
 
 
