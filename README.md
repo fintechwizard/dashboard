@@ -31,16 +31,31 @@ Here's a glimpse of what our custom React dashboard has to offer:
 </p>
 
 <b>- Calendar</b>
-  ![Calendar](calendar-screenshot.png)
+<p align="center">
+<img src="https://github.com/fintechwizard/dashboard/assets/107593481/1490bfbb-f1da-4a8b-8113-beae17f2ee37">
+</p>
 
 <b>- Financial Chart</b>
-  ![Financial Chart](financial-chart-screenshot.png)
+<p align="center">
+<img src="https://github.com/fintechwizard/dashboard/assets/107593481/f5675cca-6d14-45e1-b206-25c8c7687bfd">
+</p>
 
 <b>- Theme Settings</b>
-  ![Theme Settings](theme-settings-screenshot.png)
+<p align="center">
+<img src="https://github.com/fintechwizard/dashboard/assets/107593481/153519c9-167c-41ff-be62-057f3cc6d375">
+</p>
 
 <b>- Area Chart</b>
-  ![Area Chart](area-chart-screenshot.png)
+<p align="center">
+<img src="https://github.com/fintechwizard/dashboard/assets/107593481/866c77a6-1efc-4f92-a9d8-388ad2418e9e">
+</p>
+
+
+
+
+
+
+
 
 
 
