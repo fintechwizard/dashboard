@@ -1,7 +1,7 @@
 # Custom Company Dashboard
 
 <p align="center">
-<img src=  "![ksnip_20230905-092636](https://github.com/fintechwizard/dashboard/assets/107593481/f899cb8b-3a76-4e28-b83e-379940add68c)">
+<img src="https://user-images.githubusercontent.com/107593481/f899cb8b-3a76-4e28-b83e-379940add68c.png">
 </p>
 
 Welcome to the Custom Company Dashboard repository! This full-fledged React dashboard is designed to cater to your company's specific needs. It offers a comprehensive suite of features, including a calendar, contacts management, interactive charts, financial tools, and much more. The dashboard is highly customizable, with options for both light and dark themes, along with a range of custom colors and settings.
