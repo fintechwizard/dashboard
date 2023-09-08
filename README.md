@@ -50,29 +50,16 @@ Here's a glimpse of what our custom React dashboard has to offer:
 <img src="https://github.com/fintechwizard/dashboard/assets/107593481/866c77a6-1efc-4f92-a9d8-388ad2418e9e">
 </p>
 
-<h3 align="center">Customization Tailored to Your Needs</h3>
+<h3>Customization Tailored to Your Needs</h3>
 
-## 
-<p align="center">
 At <b>eVOLV<b/>, we understand that every company is unique. That's why our Custom Company Dashboard is designed to be highly adaptable. Whether you need specific features, branding, or integrations, we're here to customize it to your requirements. Let us build the perfect dashboard that suits your business like a tailored suit.
-</p>
    
-<h3 align="center">Get in Touch</h3>
-<p align="center">
-Have questions or want to explore the possibilities of our Custom Company Dashboard further? Our team is just a message away. We're eager to hear about your project and discuss how we can help you achieve your goals.
+<h3>Get in Touch</h3>
+
+Have any questions or want to explore the possibilities of our collaboration further? Our team is just a message away. We're eager to hear about your project and discuss how we can help you achieve your goals.
 
 Feel free to reach out to us at [contact@evolv.com](mailto:contact@evolv.com), and let's start crafting your ideal dashboard solution.
 
-Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and data-driven company.
+Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and eVOLVED company.
 
 [Visit our website](https://www.evolv.com) | [GitHub Repository](https://github.com/fintechwizard/dashboard)
-</p>
-
-
-
-
-
-
-
-
-
